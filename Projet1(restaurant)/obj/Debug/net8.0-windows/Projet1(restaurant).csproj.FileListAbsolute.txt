@@ -1,0 +1,17 @@
+D:\Teccart\2eme session\POO\Projet1(restaurant)\Projet1(restaurant)\bin\Debug\net8.0-windows\Projet1(restaurant).exe
+D:\Teccart\2eme session\POO\Projet1(restaurant)\Projet1(restaurant)\bin\Debug\net8.0-windows\Projet1(restaurant).deps.json
+D:\Teccart\2eme session\POO\Projet1(restaurant)\Projet1(restaurant)\bin\Debug\net8.0-windows\Projet1(restaurant).runtimeconfig.json
+D:\Teccart\2eme session\POO\Projet1(restaurant)\Projet1(restaurant)\bin\Debug\net8.0-windows\Projet1(restaurant).dll
+D:\Teccart\2eme session\POO\Projet1(restaurant)\Projet1(restaurant)\bin\Debug\net8.0-windows\Projet1(restaurant).pdb
+D:\Teccart\2eme session\POO\Projet1(restaurant)\Projet1(restaurant)\obj\Debug\net8.0-windows\Projet1_restaurant_.Form1.resources
+D:\Teccart\2eme session\POO\Projet1(restaurant)\Projet1(restaurant)\obj\Debug\net8.0-windows\Projet1(restaurant).csproj.GenerateResource.cache
+D:\Teccart\2eme session\POO\Projet1(restaurant)\Projet1(restaurant)\obj\Debug\net8.0-windows\Projet1(restaurant).GeneratedMSBuildEditorConfig.editorconfig
+D:\Teccart\2eme session\POO\Projet1(restaurant)\Projet1(restaurant)\obj\Debug\net8.0-windows\Projet1(restaurant).AssemblyInfoInputs.cache
+D:\Teccart\2eme session\POO\Projet1(restaurant)\Projet1(restaurant)\obj\Debug\net8.0-windows\Projet1(restaurant).AssemblyInfo.cs
+D:\Teccart\2eme session\POO\Projet1(restaurant)\Projet1(restaurant)\obj\Debug\net8.0-windows\Projet1(restaurant).csproj.CoreCompileInputs.cache
+D:\Teccart\2eme session\POO\Projet1(restaurant)\Projet1(restaurant)\obj\Debug\net8.0-windows\Projet1(restaurant).dll
+D:\Teccart\2eme session\POO\Projet1(restaurant)\Projet1(restaurant)\obj\Debug\net8.0-windows\refint\Projet1(restaurant).dll
+D:\Teccart\2eme session\POO\Projet1(restaurant)\Projet1(restaurant)\obj\Debug\net8.0-windows\Projet1(restaurant).pdb
+D:\Teccart\2eme session\POO\Projet1(restaurant)\Projet1(restaurant)\obj\Debug\net8.0-windows\Projet1(restaurant).genruntimeconfig.cache
+D:\Teccart\2eme session\POO\Projet1(restaurant)\Projet1(restaurant)\obj\Debug\net8.0-windows\ref\Projet1(restaurant).dll
+D:\Teccart\2eme session\POO\Projet1(restaurant)\Projet1(restaurant)\obj\Debug\net8.0-windows\Projet1_restaurant_.Properties.Resources.resources
